@@ -1,7 +1,5 @@
 # Water Quality Analysis Internship — Environmental Laboratory, DLHK Bangka Belitung
 
-Physical, chemical, and biological water quality testing performed during a semester-long internship (KLK/MBKM program) at the Environmental Laboratory (UPTD Laboratorium Lingkungan) of the Provincial Environmental and Forestry Agency (DLHK) of Bangka Belitung Islands, Indonesia.
-
 ## Overview
 
 This project documents hands-on laboratory work analyzing clean water, wastewater, seawater, and surface water samples against Indonesian National Standards (SNI) and international methods (JIS). The internship combined instrumental analysis, microbiological testing, and standard operating procedure (SOP) compliance in a government environmental monitoring lab.
@@ -10,7 +8,7 @@ This project documents hands-on laboratory work analyzing clean water, wastewate
 - **Program:** Kuliah Luar Kampus (KLK) / Merdeka Belajar Kampus Merdeka (MBKM), Universitas Bangka Belitung
 - **Duration:** 28 July – 14 November 2024 (16 weeks)
 - **Role:** Laboratory Analyst Intern (Biology)
-- **Location:** Kabupaten Bangka Tengah, Bangka Belitung Islands, Indonesia
+- **Location:** Pangkalpinang, Bangka Belitung Islands, Indonesia
 
 ## Objectives
 
